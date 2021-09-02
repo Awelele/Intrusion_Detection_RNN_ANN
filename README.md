@@ -20,3 +20,4 @@ tensorflow
 
 ## Dataset
 The project works with: KDD Cup'99 (1999) Dataset.
+http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
