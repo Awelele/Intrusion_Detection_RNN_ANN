@@ -12,10 +12,10 @@ Based on the KDD-Cup dataset, a four layer recurrent neural network-Long Short T
 git clone https://github.com/Awelele/Intrusion_Detection_RNN_ANN.git 
 
 ## Required Packaages
-scikit-learn \n
-numpy\n
-pandas\n
-Keras\n
+scikit-learn <br/>
+numpy <br/>
+pandas <br/>
+Keras <br/>
 tensorflow
 
 ## Dataset
